@@ -1,0 +1,8 @@
+classes= 2
+train  = data_train_mask.txt
+valid = data_test_mask.txt
+names = class.names
+backup = backup/
+
+
+
